@@ -1,0 +1,41 @@
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.exe
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.deps.json
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.runtimeconfig.json
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.runtimeconfig.dev.json
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.dll
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.pdb
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.csproj.AssemblyReference.cache
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.AssemblyInfoInputs.cache
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.AssemblyInfo.cs
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.csproj.CoreCompileInputs.cache
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.csproj.CopyComplete
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.dll
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.pdb
+C:\Users\kkancha\source\repos\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.genruntimeconfig.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.exe
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.deps.json
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.runtimeconfig.json
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.runtimeconfig.dev.json
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\EmployeePayroll.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.csproj.AssemblyReference.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.AssemblyInfoInputs.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.AssemblyInfo.cs
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.csproj.CoreCompileInputs.cache
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.csproj.CopyComplete
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.dll
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.pdb
+C:\Users\bkukrej\OneDrive - MORNINGSTAR INC\Desktop\05-09-21\EmployeePayroll\EmployeePayroll\EmployeePayroll\obj\Debug\netcoreapp3.1\EmployeePayroll.genruntimeconfig.cache
